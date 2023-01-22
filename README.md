@@ -2,7 +2,7 @@
 
 MyMess APP
 
-MyMess APP is an application for managing hostel mess
+MyMess APP is an application for managing hostel mess digitally.
 
 
 FIGMA UI/UX design link:
